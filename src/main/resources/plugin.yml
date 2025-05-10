@@ -1,0 +1,8 @@
+name: Valkyrie
+version: '${project.version}'
+main: me.kori32.valkyrie.Valkyrie
+api-version: '1.21'
+permissions:
+  valkyrie.alerts:
+    description: Recieving alerts for xray
+    default: op
